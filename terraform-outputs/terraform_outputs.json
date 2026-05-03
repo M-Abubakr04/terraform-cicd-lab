@@ -1,0 +1,42 @@
+{
+  "environment": {
+    "sensitive": false,
+    "type": "string",
+    "value": "dev"
+  },
+  "files_created": {
+    "sensitive": false,
+    "type": [
+      "tuple",
+      [
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ]
+    ],
+    "value": [
+      "./generated/demo-dev-1-wjbap6j9.txt",
+      "./generated/demo-dev-2-wjbap6j9.txt",
+      "./generated/demo-dev-3-wjbap6j9.txt",
+      "./generated/demo-dev-4-wjbap6j9.txt",
+      "./generated/demo-dev-5-wjbap6j9.txt"
+    ]
+  },
+  "random_suffix": {
+    "sensitive": false,
+    "type": "string",
+    "value": "wjbap6j9"
+  },
+  "summary_file": {
+    "sensitive": false,
+    "type": "string",
+    "value": "./generated/summary-dev-wjbap6j9.json"
+  },
+  "total_resources": {
+    "sensitive": false,
+    "type": "number",
+    "value": 6
+  }
+}
